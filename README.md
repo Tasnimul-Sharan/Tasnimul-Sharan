@@ -92,10 +92,6 @@
 
 
 <details>
-<summary>
-  Want to learn more...?
-</summary>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+This+is+Kazi+Shariful+Islam;I'm+a+passionate+MERN+Stack+Developer;I+build+Web+Application+with+React+&+Node;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
