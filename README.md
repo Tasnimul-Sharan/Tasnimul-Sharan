@@ -1,7 +1,7 @@
 <h1 align=center>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=C9D1D1FF&center=true&width=600&lines=Hello+There!;I'm+Tasnimul+Alam;Full+Stack+Developer" alt="Headline" />
 </h1>
-<h3 align="center">A passionate full-stack web Developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack web Developer</h3>
 
 
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
