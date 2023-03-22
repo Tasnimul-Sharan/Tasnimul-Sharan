@@ -10,9 +10,9 @@
 
 - 🌱 I just want learn more about code
 
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/RaselKazi?tab=repositories](https://github.com/RaselKazi?tab=repositories) -->
+- 👨‍💻 All of my projects are available at [https://github.com/RaselKazi?tab=repositories](https://github.com/RaselKazi?tab=repositories)
 
-- 🎯 2023 Goals: React Native, Redux
+- 🎯 2023 Goals: React Native, Redux, NextJs, TypeScript etc
 
 - 💬 Ask me about **JavaScript, React**
 
