@@ -2,8 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=C9D1D1FF&center=true&width=600&lines=Hello+There!;I'm+Tasnimul+Alam;Full+Stack+Developer" alt="Headline" />
 </h1>
 <h3 align="center">A passionate full-stack web Developer from Bangladesh</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :woman_technologist: About Me :
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"width="100"/>
 </div>
@@ -44,15 +48,6 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
-```javascript
-const Rasel_Kazi = {
-  pronouns: "he" | "his",
-  code: [Javascript, typescript, Nodejs, HTML, CSS],
-  web_technologies: [React, Node js,  Mern stack, Next.js, Git, Github],
-  extra_softwere_skills: ["Adobe Photoshop", "Adobe Premieer Pro", "Adobe Illustrator"],
-  
-}
-```
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
 
 <div>
@@ -63,7 +58,7 @@ const Rasel_Kazi = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
