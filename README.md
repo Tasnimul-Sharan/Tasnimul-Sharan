@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate full-stack web Developer from Bangladesh</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400"/>
 </div>
 
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
