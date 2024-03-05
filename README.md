@@ -20,7 +20,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/RaselKazi?tab=repositories](https://github.com/RaselKazi?tab=repositories) -->
 
-- 🎯 2023 Goals: React Native, Redux
+- 🎯 2024 Goals: Redux
 
 - 💬 Ask me about **JavaScript, React**
 
