@@ -45,7 +45,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tasnimul-Sharan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasnimul-Sharan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasnimul-Sharan&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
