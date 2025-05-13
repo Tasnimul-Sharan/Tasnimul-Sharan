@@ -70,8 +70,8 @@ From client-side sparkle ✨ to server-side strength 💪 — I wield JS like a 
 ## 📈 GitHub Vibes
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasnimul-Sharan&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasnimul-Sharan&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasnimul-Sharan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasnimul-Sharan&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
