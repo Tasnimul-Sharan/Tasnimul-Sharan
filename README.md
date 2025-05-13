@@ -18,6 +18,7 @@
 - ⚙️ Mastering the magic of **Next.js**, **Redux**, and scalable architecture  
 - 🧠 Always learning — because growth never sleeps  
 - 💬 Let’s talk **React**, **Tailwind**, or JavaScript wizardry  
+- ❤️ I love **helping others**, **learning new things**, and **sharing what I know** — teaching is part of the journey  
 - 📩 Reach me: **tasnimulsharan8962@gmail.com**  
 - 🧩 Fun Fact: I debug in dreams & document in memes  
 
