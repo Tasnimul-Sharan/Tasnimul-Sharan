@@ -24,7 +24,7 @@ From client-side sparkle ✨ to server-side strength 💪 — I wield JS like a 
 - 📩 Reach me: **tasnimulsharan8962@gmail.com**  
 - 🧩 Fun Fact: I debug in dreams & document in memes
 
-## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Tech Toolbox:
+## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25">  Tech Toolbox:
 
 <p align="center">
   <!-- Frameworks & Libraries -->
