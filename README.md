@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1000&color=d44f3e&center=true&width=700&lines=Hi+there!+I'm+Tasnimul+Alam+👋;Full+Stack+Developer+%F0%9F%9A%80;React+JS+Wizard+%E2%9A%A1;Problem+Solver+%F0%9F%A4%96;Code+Artist+%F0%9F%92%BB" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1000&color=4fa6db&center=true&width=700&lines=Hi+there!+I'm+Tasnimul+Alam+👋;Full+Stack+Developer+%F0%9F%9A%80;React+JS+Wizard+%E2%9A%A1;Problem+Solver+%F0%9F%A4%96;Code+Artist+%F0%9F%92%BB" alt="Headline" />
 </h1>
 
 <h3 align="center">🌍 A Passionate Full Stack Developer from Bangladesh</h3>
