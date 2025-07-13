@@ -8,21 +8,21 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coder vibe" />
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> JavaScript Devotee 
-> JavaScript isn’t just a language — it’s my rhythm, my rhyme, the *soul* of the interactive web.  
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> JavaScript Enthusiast
+> JavaScript isn’t just a language — it’s the pulse of the modern web, and I love writing code that brings ideas to life. 
 
-From client-side sparkle ✨ to server-side strength 💪 — I wield JS like a digital sword.
+From client-side sparkle ✨ to server-side strength 💪 — I build with efficiency, scalability, and performance in mind.
 
 ### 👨‍💻 About Me:
 > “I write code like poets write verse — with precision, passion, and purpose.”
 
-- 💻 Full Stack Dev | Frontend Ninja | Backend Wrangler  
-- ⚙️ Mastering the magic of **Next.js**, **Redux**, and scalable architecture  
-- 🧠 Always learning — because growth never sleeps  
-- 💬 Let’s talk **React**, **Tailwind**, or JavaScript wizardry  
-- ❤️ I love **helping others**, **learning new things**, and **sharing what I know** — teaching is part of the journey  
-- 📩 Reach me: **tasnimulsharan8962@gmail.com**  
-- 🧩 Fun Fact: I debug in dreams & document in memes
+- 💻 Full Stack Developer | React Specialist | Backend Engineer  
+- 🚀 Proficient in building scalable apps with **Next.js**, **Node.js**, and **Redux**  
+- 🔄 Advocate for clean code, reusability, and modular architecture  
+- 🌱 Continuously learning and staying updated with the latest tech trends  
+- 🤝 Open to collaboration, mentorship, and building meaningful products  
+- 📫 Reach me at: **tasnimulsharan8962@gmail.com**  
+- 🎯 Fun fact: I debug in dreams & document with memes 😄
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25">  Tech Toolbox:
 
