@@ -2,32 +2,40 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1000&color=4fa6db&center=true&width=700&lines=Hi+there!+I'm+Tasnimul+Alam+👋;Full+Stack+Craftsman+%F0%9F%9B%A0%EF%B8%8F;React+JS+Wizard+%E2%9A%A1;Problem+Solver+%F0%9F%A4%96;Code+Whisperer+%F0%9F%92%BB" alt="Headline" />
 </h1>
 
-<h3 align="center">🌍 A Passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">🌍 Passionate Full Stack Developer from Bangladesh</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coder vibe" />
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> JavaScript Devotee 
-> JavaScript isn’t just a language — it’s my rhythm, my rhyme, the *soul* of the interactive web.  
+---
 
-From client-side sparkle ✨ to server-side strength 💪 — I wield JS like a digital sword.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> JavaScript Enthusiast
+
+> JavaScript isn’t just a language — it’s the pulse of the modern web, and I love writing code that brings ideas to life.
+
+From pixel-perfect interfaces ✨ to robust backends ⚙️ — I build with efficiency, scalability, and performance in mind.
+
+---
 
 ### 👨‍💻 About Me:
-> “I write code like poets write verse — with precision, passion, and purpose.”
 
-- 💻 Full Stack Dev | Frontend Ninja | Backend Wrangler  
-- ⚙️ Mastering the magic of **Next.js**, **Redux**, and scalable architecture  
-- 🧠 Always learning — because growth never sleeps  
-- 💬 Let’s talk **React**, **Tailwind**, or JavaScript wizardry  
-- ❤️ I love **helping others**, **learning new things**, and **sharing what I know** — teaching is part of the journey  
-- 📩 Reach me: **tasnimulsharan8962@gmail.com**  
-- 🧩 Fun Fact: I debug in dreams & document in memes
+> “I write code with precision, passion, and purpose.”
 
-## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25">  Tech Toolbox:
+- 🧑‍💻 Full Stack Developer | React Specialist | Backend Engineer  
+- 🚀 Proficient in building scalable apps with **Next.js**, **Node.js**, and **Redux**  
+- 🔄 Advocate for clean code, reusability, and modular architecture  
+- 🌱 Continuously learning and staying updated with the latest tech trends  
+- 🤝 Open to collaboration, mentorship, and building meaningful products  
+- 📫 Reach me at: **tasnimulsharan8962@gmail.com**  
+- 🎯 Fun fact: I debug in dreams & document with memes 😄
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <!-- Frameworks & Libraries -->
+  <!-- Frameworks -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" width="40" />
@@ -55,14 +63,18 @@ From client-side sparkle ✨ to server-side strength 💪 — I wield JS like a 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" width="40" />
 </p>
 
-### 📊 GitHub Vibes:
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tasnimul-Sharan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasnimul-Sharan&theme=radical" alt="GitHub Streak" />
 </div>
 
-### 🌐 Let's Connect
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/tasnimul.sharan.397">
@@ -82,4 +94,6 @@ From client-side sparkle ✨ to server-side strength 💪 — I wield JS like a 
   </a>
 </p>
 
-> _“Building the future, one line of code at a time. Let’s craft something epic.”_ 🔥
+---
+
+> _“Building innovative solutions, one line of code at a time.”_ 🔥
