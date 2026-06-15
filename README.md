@@ -16,7 +16,7 @@ From client-side sparkle ✨ to server-side strength 💪 — I build with effic
 ### 👨‍💻 About Me:
 > “I write code like poets write verse — with precision, passion, and purpose.”
 
-- 💻 Full Stack Developer | React Specialist | Backend Engineer  
+- 💻 Full Stack Developer | React & NextJs Specialist | Software Engineer  
 - 🚀 Proficient in building scalable apps with **Next.js**, **Node.js**, and **Redux**  
 - 🔄 Advocate for clean code, reusability, and modular architecture  
 - 🌱 Continuously learning and staying updated with the latest tech trends  
