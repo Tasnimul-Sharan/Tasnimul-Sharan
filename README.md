@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=900&color=D44F3E&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;React+%26+Next.js+Development;Clean+Code+%7C+Performance+%7C+Modern+UI;Full+Stack+Software+Engineer+from+Bangladesh" alt="Typing Headline" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:tasnimulsharan8962@gmail.com">
     <img src="https://img.shields.io/badge/Email-tasnimulsharan8962%40gmail.com-d44f3e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -16,7 +16,7 @@
   <a href="https://github.com/Tasnimul-Sharan">
     <img src="https://img.shields.io/badge/GitHub-Tasnimul--Sharan-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXEwdzRndGY3aWZmaWgyOHFxYzkyd3E0cHc4YmQwYnFqdjQ3czh5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="620" height="310" alt="Developer Coding Animation" />
