@@ -1,6 +1,10 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1000&color=4fa6db&center=true&width=700&lines=Hi+there!+I'm+Tasnimul+Alam+👋;Full+Stack+Craftsman+🛠️;React+JS+Wizard+⚡;Next.js+Developer+🚀;Problem+Solver+🤖;Code+Whisperer+💻" alt="Headline" />
-</h1>
+<h1 align="center">Hi, I'm Tasnimul Alam 👋</h1>
+
+<h3 align="center">Full Stack Developer | React & Next.js Specialist | Software Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=4fa6db&center=true&width=750&lines=Building+Scalable+Web+Applications;React+%26+Next.js+Developer;Clean+Code+%7C+Performance+%7C+Modern+UI;Passionate+Software+Engineer+from+Bangladesh" alt="Typing Headline" />
+</p>
 
 <h3 align="center">🌍 A Passionate Software Engineer from Bangladesh</h3>
 
