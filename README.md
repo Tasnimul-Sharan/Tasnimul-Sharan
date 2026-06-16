@@ -18,13 +18,11 @@
   </a>
 </p>
 
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="620" height="310" alt="Professional Developer Workspace" />
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -41,7 +39,6 @@ I enjoy turning ideas into reliable digital products with a strong focus on usab
 * 🤝 Open to collaboration, remote opportunities, and meaningful product development
 * 📫 Reach me at: **[tasnimulsharan8962@gmail.com](mailto:tasnimulsharan8962@gmail.com)**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -65,7 +62,6 @@ I enjoy turning ideas into reliable digital products with a strong focus on usab
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" title="Vercel" width="42" />
 </p>
 
----
 
 ## 🚀 Core Expertise
 
@@ -78,7 +74,6 @@ I enjoy turning ideas into reliable digital products with a strong focus on usab
 | Database & Cloud     | MongoDB, MySQL, Firebase                               |
 | Tools & Deployment   | Git, GitHub, Vercel                                    |
 
----
 
 ## 📊 GitHub Analytics
 
@@ -88,28 +83,6 @@ I enjoy turning ideas into reliable digital products with a strong focus on usab
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasnimul-Sharan&theme=dark&hide_border=true&background=101010&ring=d44f3e&fire=ec6853&currStreakLabel=d44f3e&sideLabels=9f9f9f&currStreakNum=ffffff&sideNums=ffffff&dates=9f9f9f" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.facebook.com/tasnimul.sharan.397">
-    <img src="https://img.shields.io/badge/Facebook-101010?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://x.com/SharanTasnimul">
-    <img src="https://img.shields.io/badge/X-121212?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://github.com/Tasnimul-Sharan">
-    <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/tasnimul-alam/">
-    <img src="https://img.shields.io/badge/LinkedIn-d44f3e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tasnimulsharan8962@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ec6853?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </p>
 
 ## 🌐 Let's Connect
