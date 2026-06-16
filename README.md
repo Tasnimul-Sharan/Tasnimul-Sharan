@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/XFwz7MTThaOVQ9RhB5/giphy.gif" width="620" height="310" alt="Professional Coding Workspace" />
+  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="620" height="310" alt="Developer Coding Animation" />
 </div>
 
 
