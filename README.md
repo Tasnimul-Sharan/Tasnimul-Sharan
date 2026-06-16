@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="620" height="310" alt="Developer Coding Animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXEwdzRndGY3aWZmaWgyOHFxYzkyd3E0cHc4YmQwYnFqdjQ3czh5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="620" height="310" alt="Developer Coding Animation" />
 </div>
 
 
