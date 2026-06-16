@@ -24,6 +24,7 @@
 </div>
 
 
+
 ## 👨‍💻 About Me
 
 I am a passionate **Full Stack Developer** and **Software Engineer from Bangladesh**, focused on building modern, scalable, and performance-driven web applications. My core expertise lies in **React.js**, **Next.js**, **Node.js**, and clean frontend architecture.
@@ -38,6 +39,7 @@ I enjoy turning ideas into reliable digital products with a strong focus on usab
 * 🌱 Continuously improving with modern tools, best practices, and emerging technologies
 * 🤝 Open to collaboration, remote opportunities, and meaningful product development
 * 📫 Reach me at: **[tasnimulsharan8962@gmail.com](mailto:tasnimulsharan8962@gmail.com)**
+
 
 
 ## 🛠️ Tech Stack
@@ -63,6 +65,7 @@ I enjoy turning ideas into reliable digital products with a strong focus on usab
 </p>
 
 
+
 ## 🚀 Core Expertise
 
 | Focus Area           | Technologies & Skills                                  |
@@ -73,6 +76,7 @@ I enjoy turning ideas into reliable digital products with a strong focus on usab
 | Backend Development  | Node.js, Express.js, REST API Integration              |
 | Database & Cloud     | MongoDB, MySQL, Firebase                               |
 | Tools & Deployment   | Git, GitHub, Vercel                                    |
+
 
 
 ## 📊 GitHub Analytics
