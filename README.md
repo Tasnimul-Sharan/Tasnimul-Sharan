@@ -1,112 +1,85 @@
-<h1 align="center">Hi, I'm Tasnimul Alam 👋</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1000&color=4fa6db&center=true&width=700&lines=Hi+there!+I'm+Tasnimul+Alam+👋;Full+Stack+Craftsman+🛠️;React+JS+Wizard+⚡;Next.js+Developer+🚀;Problem+Solver+🤖;Code+Whisperer+💻" alt="Headline" />
+</h1>
 
-<h3 align="center">Full Stack Developer | React & Next.js Specialist | Software Engineer</h3>
+<h3 align="center">🌍 A Passionate Software Engineer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=4fa6db&center=true&width=750&lines=Building+Scalable+Web+Applications;React+%26+Next.js+Developer;Clean+Code+%7C+Performance+%7C+Modern+UI;Passionate+Software+Engineer+from+Bangladesh" alt="Typing Headline" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coder vibe" />
+</div>
 
-<p align="center">
-  <a href="mailto:tasnimulsharan8962@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tasnimulsharan8962%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/tasnimul-alam/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tasnimul%20Alam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Tasnimul-Sharan">
-    <img src="https://img.shields.io/badge/GitHub-Tasnimul--Sharan-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> JavaScript Enthusiast
+> JavaScript isn’t just a language — it’s the pulse of the modern web, and I love writing code that brings ideas to life. 
 
----
+From client-side sparkle ✨ to server-side strength 💪 — I build with efficiency, scalability, and performance in mind.
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me:
+> “I write code like poets write verse — with precision, passion, and purpose.”
 
-I am a passionate **Software Engineer from Bangladesh** with a strong focus on building modern, scalable, and performance-driven web applications. I specialize in **React.js**, **Next.js**, and full-stack development, with a commitment to writing clean, maintainable, and reusable code.
+- 💻 Full Stack Developer | React & NextJs Specialist | Software Engineer  
+- 🚀 Proficient in building scalable apps with **Next.js**, **Node.js**, and **Redux**  
+- 🔄 Advocate for clean code, reusability, and modular architecture  
+- 🌱 Continuously learning and staying updated with the latest tech trends  
+- 🤝 Open to collaboration, mentorship, and building meaningful products  
+- 📫 Reach me at: **tasnimulsharan8962@gmail.com**  
+- 🎯 Fun fact: I debug in dreams & document with memes 😄
 
-I enjoy transforming ideas into functional digital products, solving real-world problems through technology, and continuously improving my skills with modern tools and best practices.
-
-* 💻 Full Stack Developer with strong expertise in **React.js** and **Next.js**
-* 🚀 Experienced in building scalable, responsive, and user-friendly web applications
-* ⚙️ Skilled in frontend architecture, API integration, state management, and backend workflows
-* 🧩 Strong advocate for clean code, modular structure, and performance optimization
-* 🌱 Continuously learning modern technologies and software engineering best practices
-* 🤝 Open to collaboration, professional opportunities, and meaningful product development
-* 📫 Reach me at: **[tasnimulsharan8962@gmail.com](mailto:tasnimulsharan8962@gmail.com)**
-
----
-
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25">  Tech Toolbox:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express.js" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" title="Ant Design" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" title="Vercel" width="42" />
+  <!-- Frameworks & Libraries -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" width="40" />
+
+  <!-- Styling -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="Ant Design" width="40" />
+
+  <!-- Languages -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="40" />
+
+  <!-- Backend & DB -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" width="40" />
+
+  <!-- Tools & Deployment -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" width="40" />
 </p>
 
----
+### 📊 GitHub Vibes:
 
-## 🚀 Core Expertise
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasnimul-Sharan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasnimul-Sharan&theme=radical" alt="GitHub Streak" />
+</div>
 
-| Area                 | Technologies                                           |
-| -------------------- | ------------------------------------------------------ |
-| Frontend Development | React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3 |
-| UI Frameworks        | Tailwind CSS, Bootstrap, Ant Design                    |
-| State Management     | Redux, Context API                                     |
-| Backend Development  | Node.js, Express.js                                    |
-| Database             | MongoDB, MySQL, Firebase                               |
-| Tools & Deployment   | Git, GitHub, Vercel                                    |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasnimul-Sharan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasnimul-Sharan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect With Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.facebook.com/tasnimul.sharan.397">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://x.com/SharanTasnimul">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/Tasnimul-Sharan">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tasnimul-alam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tasnimulsharan8962@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-<p align="center">
-  <strong>Building reliable, scalable, and meaningful digital products through clean code and modern technology.</strong>
-</p>
+> _“Building the future, one line of code at a time. Let’s craft something epic.”_ 🔥
