@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=4fa6db&center=true&width=750&lines=Building+Scalable+Web+Applications;React+%26+Next.js+Developer;Clean+Code+%7C+Performance+%7C+Modern+UI;Passionate+Software+Engineer+from+Bangladesh" alt="Typing Headline" />
 </p>
 
-<h3 align="center">🌍 A Passionate Software Engineer from Bangladesh</h3>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coder vibe" />
 </div>
