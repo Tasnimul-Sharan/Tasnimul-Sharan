@@ -18,9 +18,8 @@
   </a>
 </p>
 
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="620" height="310" alt="Professional Developer Workspace" />
+  <img src="https://media.giphy.com/media/XFwz7MTThaOVQ9RhB5/giphy.gif" width="620" height="310" alt="Professional Coding Workspace" />
 </div>
 
 
