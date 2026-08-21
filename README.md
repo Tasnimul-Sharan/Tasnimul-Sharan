@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tasnimul Alam 👋</h1>
 
-<h3 align="center">Full Stack Developer | React & Next.js Specialist | Software Engineer</h3>
+<h3 align="center">Full Stack Developer | React & Next.js Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=900&color=D44F3E&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;React+%26+Next.js+Development;Clean+Code+%7C+Performance+%7C+Modern+UI;Full+Stack+Software+Engineer+from+Bangladesh" alt="Typing Headline" />
