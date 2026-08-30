@@ -81,10 +81,7 @@ I enjoy turning ideas into reliable digital products with a strong focus on usab
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Tasnimul-Sharan&show_icons=true&theme=dark&hide_border=true&title_color=d44f3e&icon_color=ec6853&text_color=9f9f9f&bg_color=101010"
-    alt="Tasnimul Sharan GitHub Stats"
-  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tasnimul-Sharan&show_icons=true&theme=dark&hide_border=true&title_color=d44f3e&icon_color=ec6853&text_color=9f9f9f&bg_color=101010" alt="GitHub Stats" />
 </p>
 
 <p align="center">
