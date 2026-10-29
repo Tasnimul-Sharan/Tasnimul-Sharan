@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Tasnimul Alam 👋</h1>
 
-<!-- <h3 align="center">Full Stack Developer | React & Next.js Developer | Web Developer | Software Engineer</h3>
+<h3 align="center">Full Stack Developer | React & Next.js Developer | Web Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=900&color=D44F3E&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;React+%26+Next.js+Development;Clean+Code+%7C+Performance+%7C+Modern+UI;Full+Stack+Software+Engineer+from+Bangladesh" alt="Typing Headline" />
-</p> -->
+</p>
 
 
-<h2 align="center">
+<!-- <h2 align="center">
   Crafting Digital Experiences Through Code 🚀
 </h2>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   <b>Passionate About Technology • Focused on Performance • Driven by Innovation</b>
-</p>
+</p> -->
 
 
 <!-- <p align="center">
