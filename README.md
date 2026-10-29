@@ -1,10 +1,31 @@
 <h1 align="center">Hi, I'm Tasnimul Alam 👋</h1>
 
-<h3 align="center">Full Stack Developer | React & Next.js Developer | Web Developer | Software Engineer</h3>
+<!-- <h3 align="center">Full Stack Developer | React & Next.js Developer | Web Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=900&color=D44F3E&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;React+%26+Next.js+Development;Clean+Code+%7C+Performance+%7C+Modern+UI;Full+Stack+Software+Engineer+from+Bangladesh" alt="Typing Headline" />
+</p> -->
+
+
+<h2 align="center">
+  Crafting Digital Experiences Through Code 🚀
+</h2>
+
+<h3 align="center">
+  Full-Stack Developer | React & Next.js Specialist | Software Engineer
+</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=D44F3E&center=true&vCenter=true&width=900&height=65&lines=Turning+Ideas+Into+Powerful+Web+Applications;Building+Scalable+%26+High-Performance+Solutions;React+%7C+Next.js+%7C+Full-Stack+Development;Clean+Code+%7C+Modern+UI+%7C+Seamless+UX;Based+in+Bangladesh+%7C+Building+for+the+World"
+    alt="Animated Developer Introduction"
+  />
 </p>
+
+<p align="center">
+  <b>Passionate About Technology • Focused on Performance • Driven by Innovation</b>
+</p>
+
 
 <!-- <p align="center">
   <a href="mailto:tasnimulsharan8962@gmail.com">
