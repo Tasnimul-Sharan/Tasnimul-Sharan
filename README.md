@@ -1,43 +1,10 @@
-<h1 align="center">Hi, I'm Tasnimul Alam 👋</h1>
+<!-- <h1 align="center">Hi, I'm Tasnimul Alam 👋</h1>
 
 <h3 align="center">Full Stack Developer | React & Next.js Developer | Web Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=900&color=D44F3E&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;React+%26+Next.js+Development;Clean+Code+%7C+Performance+%7C+Modern+UI;Full+Stack+Software+Engineer+from+Bangladesh" alt="Typing Headline" />
 </p>
-
-
-<!-- <h2 align="center">
-  Crafting Digital Experiences Through Code 🚀
-</h2>
-
-<h3 align="center">
-  Full-Stack Developer | React & Next.js Specialist | Software Engineer
-</h3>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=D44F3E&center=true&vCenter=true&width=900&height=65&lines=Turning+Ideas+Into+Powerful+Web+Applications;Building+Scalable+%26+High-Performance+Solutions;React+%7C+Next.js+%7C+Full-Stack+Development;Clean+Code+%7C+Modern+UI+%7C+Seamless+UX;Based+in+Bangladesh+%7C+Building+for+the+World"
-    alt="Animated Developer Introduction"
-  />
-</p>
-
-<p align="center">
-  <b>Passionate About Technology • Focused on Performance • Driven by Innovation</b>
-</p> -->
-
-
-<!-- <p align="center">
-  <a href="mailto:tasnimulsharan8962@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tasnimulsharan8962%40gmail.com-d44f3e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/tasnimul-alam/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tasnimul%20Alam-101010?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Tasnimul-Sharan">
-    <img src="https://img.shields.io/badge/GitHub-Tasnimul--Sharan-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p> -->
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXEwdzRndGY3aWZmaWgyOHFxYzkyd3E0cHc4YmQwYnFqdjQ3czh5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="620" height="310" alt="Developer Coding Animation" />
@@ -135,4 +102,118 @@ I enjoy turning ideas into reliable digital products with a strong focus on usab
 
 <p align="center">
   <em>“Committed to writing clean code and creating products that deliver real value.”</em>
+</p> -->
+
+
+
+
+<div align="center">
+
+<h1>Hi, I'm Tasnimul Alam 👋</h1>
+
+<h3>Full-Stack Developer · React &amp; Next.js · Software Engineer</h3>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1000&color=D44F3E&center=true&vCenter=true&width=750&height=55&lines=Building+Fast%2C+Scalable+Web+Applications;Turning+Ideas+Into+Thoughtful+Digital+Products;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Clean+Code.+Great+UX.+Real+Impact."
+  alt="Animated developer introduction"
+/>
+
+<p>
+  <a href="mailto:tasnimulsharan8962@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D44F3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/tasnimul-alam/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Tasnimul-Sharan"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<p><strong>Building useful digital products with clean architecture, thoughtful interfaces, and performance in mind.</strong></p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **full-stack developer based in Bangladesh**, working with **React.js, Next.js, Node.js, and modern web technologies** to create responsive, maintainable, and scalable applications.
+
+- 🔭 **What I build:** Modern web applications, intuitive interfaces, and API-driven experiences.
+- 🧠 **How I work:** Reusable components, clean code, and maintainable architecture.
+- ⚡ **What I prioritize:** Performance, accessibility, usability, and responsive design.
+- 🌱 **What keeps me growing:** Exploring better development practices and evolving technologies.
+- 🤝 **Open to:** Collaboration, impactful projects, and remote opportunities.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend & UI
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" title="Ant Design" width="40" height="40" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="40" height="40" />
+</p>
+
+### Tools & Deployment
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="40" height="40" />
+</p>
+
+---
+
+## 🎯 Areas of Focus
+
+| Area | What I Work With |
+| :-- | :-- |
+| **Frontend Engineering** | React, Next.js, TypeScript, responsive interfaces |
+| **UI & State Management** | Tailwind CSS, Ant Design, Bootstrap, Redux, Context API |
+| **Backend & APIs** | Node.js, Express.js, REST APIs, application workflows |
+| **Data & Services** | MongoDB, MySQL, Firebase |
+| **Code & Delivery** | Git, GitHub, reusable components, Vercel deployment |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Tasnimul-Sharan&show_icons=true&hide_border=true&title_color=D44F3E&icon_color=EC6853&text_color=E5E7EB&bg_color=101010" alt="Tasnimul's GitHub statistics" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Tasnimul-Sharan&layout=compact&langs_count=8&hide_border=true&title_color=D44F3E&text_color=E5E7EB&bg_color=101010" alt="Most-used languages across public repositories" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tasnimul-Sharan&theme=dark&hide_border=true&background=101010&ring=D44F3E&fire=EC6853&currStreakLabel=D44F3E" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tasnimul-alam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/tasnimul.sharan.397"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/SharanTasnimul"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:tasnimulsharan8962@gmail.com"><img src="https://img.shields.io/badge/Email-D44F3E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <i>Build with purpose. Write with clarity. Improve continuously.</i>
+</p>
+
