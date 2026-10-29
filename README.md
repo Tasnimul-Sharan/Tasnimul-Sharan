@@ -104,124 +104,92 @@ I enjoy turning ideas into reliable digital products with a strong focus on usab
   <em>“Committed to writing clean code and creating products that deliver real value.”</em>
 </p> -->
 
-
-
 <div align="center">
 
 <h1>Hi, I'm Tasnimul Alam 👋</h1>
 
-<p><strong>Full-Stack Developer</strong> · React &amp; Next.js · Bangladesh 🇧🇩</p>
+<h3>Full-Stack Developer · React &amp; Next.js · Software Engineer</h3>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1200&amp;color=D44F3E&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=48&amp;repeat=true&amp;lines=Building+fast%2C+scalable+web+apps;React+%7C+Next.js+%7C+Node.js;Clean+code.+Thoughtful+interfaces."
-  width="560"
-  height="48"
-  alt="Building fast, scalable web apps with React, Next.js, and Node.js. Clean code. Thoughtful interfaces."
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1000&color=D44F3E&center=true&vCenter=true&width=750&height=55&lines=Building+Fast%2C+Scalable+Web+Applications;Turning+Ideas+Into+Thoughtful+Digital+Products;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Clean+Code.+Great+UX.+Real+Impact."
+  alt="Animated developer introduction"
 />
-
 <p>
-  <a href="mailto:tasnimulsharan8962@gmail.com">Email me</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/tasnimul-alam/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Tasnimul-Sharan?tab=repositories">Explore my work</a>
+  <a href="mailto:tasnimulsharan8962@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D44F3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/tasnimul-alam/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Tasnimul-Sharan"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p>
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="380"
-    alt="Animated illustration of a developer coding at a desk"
-  />
-</p>
+<p><strong>Building useful digital products with clean architecture, thoughtful interfaces, and performance in mind.</strong></p>
 
 </div>
 
-### 👨‍💻 About me
-
-I'm a **full-stack developer from Bangladesh**, building web applications with **React.js, Next.js, and Node.js**. I enjoy turning ideas into useful products through clear interfaces, reusable components, and maintainable code.
-
-- ⚡ **My focus:** Responsive design, performance, accessibility, and a smooth user experience.
-- 🧩 **My approach:** Clean architecture, thoughtful API integration, and continuous improvement.
-- 🤝 **Open to:** Collaboration, meaningful projects, and remote opportunities.
-
-### 🛠️ Tech stack
-
+👨‍💻 About Me
+I'm a full-stack developer based in Bangladesh, working with React.js, Next.js, Node.js, and modern web technologies to create responsive, maintainable, and scalable applications.
+- 🔭 What I build: Modern web applications, intuitive interfaces, and API-driven experiences.
+- 🧠 How I work: Reusable components, clean code, and maintainable architecture.
+- ⚡ What I prioritize: Performance, accessibility, usability, and responsive design.
+- 🌱 What keeps me growing: Exploring better development practices and evolving technologies.
+- 🤝 Open to: Collaboration, impactful projects, and remote opportunities.
+🛠️ Tech Stack
+Frontend & UI
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="38" height="38" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="38" height="38" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="38" height="38" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="38" height="38" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="38" height="38" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="38" height="38" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="38" height="38" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="38" height="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" title="Ant Design" width="40" height="40" />
 </p>
 
-**Frontend & UI**  
-React.js · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Ant Design
+Backend & Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="40" height="40" />
+</p>
 
-**State management**  
-Redux · Context API
+Tools & Deployment
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="40" height="40" />
+</p>
 
-**Backend & Data**  
-Node.js · Express.js · REST APIs · MongoDB · MySQL · Firebase
+🎯 Areas of Focus
+Area	What I Work With
+Frontend Engineering	React, Next.js, TypeScript, responsive interfaces
+UI & State Management	Tailwind CSS, Ant Design, Bootstrap, Redux, Context API
+Backend & APIs	Node.js, Express.js, REST APIs, application workflows
+Data & Services	MongoDB, MySQL, Firebase
+Code & Delivery	Git, GitHub, reusable components, Vercel deployment
 
-**Tools & Deployment**  
-Git · GitHub · Vercel
 
-### 📊 GitHub activity
+📊 GitHub Activity
+<div align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Tasnimul-Sharan&show_icons=true&hide_border=true&title_color=D44F3E&icon_color=EC6853&text_color=E5E7EB&bg_color=101010" alt="Tasnimul's GitHub statistics" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Tasnimul-Sharan&layout=compact&langs_count=8&hide_border=true&title_color=D44F3E&text_color=E5E7EB&bg_color=101010" alt="Most-used languages across public repositories" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/Tasnimul-Sharan">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api?username=Tasnimul-Sharan&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=00000000&amp;title_color=D44F3E&amp;icon_color=EC6853&amp;text_color=C9D1D9"
-      />
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=Tasnimul-Sharan&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=00000000&amp;title_color=D44F3E&amp;icon_color=D44F3E&amp;text_color=24292F"
-        width="460"
-        alt="Tasnimul Alam's public GitHub statistics"
-      />
-    </picture>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Tasnimul-Sharan&theme=dark&hide_border=true&background=101010&ring=D44F3E&fire=EC6853&currStreakLabel=D44F3E" alt="GitHub contribution streak" />
 </p>
 
-<details>
-<summary>🔥 View my contribution streak</summary>
+🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/tasnimul-alam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/tasnimul.sharan.397"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/SharanTasnimul"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:tasnimulsharan8962@gmail.com"><img src="https://img.shields.io/badge/Email-D44F3E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/Tasnimul-Sharan">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://streak-stats.demolab.com?user=Tasnimul-Sharan&amp;hide_border=true&amp;background=00000000&amp;stroke=00000000&amp;ring=D44F3E&amp;fire=EC6853&amp;currStreakLabel=D44F3E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=9198A1"
-      />
-      <img
-        src="https://streak-stats.demolab.com?user=Tasnimul-Sharan&amp;hide_border=true&amp;background=00000000&amp;stroke=00000000&amp;ring=D44F3E&amp;fire=EC6853&amp;currStreakLabel=D44F3E&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;sideLabels=24292F&amp;dates=57606A"
-        width="460"
-        alt="Tasnimul Alam's GitHub contribution streak"
-      />
-    </picture>
-  </a>
+  <i>Build with purpose. Write with clarity. Improve continuously.</i>
 </p>
-
-</details>
-
-### 🌐 Let's connect
-
-Have a project in mind? I'd love to hear about it.
-
-<p>
-  <a href="mailto:tasnimulsharan8962@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/tasnimul-alam/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.facebook.com/tasnimul.sharan.397">Facebook</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/SharanTasnimul">X</a>
-</p>
-
-<p align="center"><em>Build with purpose. Keep learning. Make it better.</em></p>
 
